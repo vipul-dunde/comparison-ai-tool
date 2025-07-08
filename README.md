@@ -1,10 +1,7 @@
-⚠️ Important Note
+## ⚠️ Important Note
 This project is deployed on Vercel and relies heavily on the OpenAI API (free tier). If the API usage limit is exceeded, the hosted URL may not function as expected.
-
 To ensure proper testing:
-
 Prefer testing locally for consistent performance.
-
 Alternatively, feel free to call or message me at +91-9579478068 if you encounter any issues.
 A web application that compares product prices across multiple e-commerce websites.
 
