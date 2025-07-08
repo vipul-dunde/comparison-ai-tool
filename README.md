@@ -36,4 +36,11 @@ npm run build
 npm start
 ```
 
-That's it! You can now search for products and compare prices across different countries. 
+### Sample Curl
+
+```curl
+curl --location 'https://comparison-ai-tool.vercel.app/api/price' \
+--header 'Content-Type: application/json' \
+--data '{"query":"Nothing Phone (3A)","country":"US"}'
+```
+
